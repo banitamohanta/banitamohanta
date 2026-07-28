@@ -8,12 +8,6 @@
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 <h1 align="center">🎮 PLAYER DASHBOARD 🎮</h1>
 
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=banitamohanta&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=banitamohanta&theme=tokyo-night&hide_border=true"/>
 </p>
