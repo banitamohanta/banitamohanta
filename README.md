@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MCA+Student;Game+Developer;Open+Source+Enthusiast;Building+SafeWithUs;Building+Igris+AI+Assistant)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700"/>
 
 </div>
 
